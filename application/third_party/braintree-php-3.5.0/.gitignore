@@ -1,0 +1,7 @@
+/vendor
+/docs
+/tags
+/tests
+composer.lock
+composer.phar
+*.tgz
